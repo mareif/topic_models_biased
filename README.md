@@ -111,4 +111,4 @@ NLTK's default stopword lists were extended with:
 
 ## License
 
-This project is licensed under the GNU General Public License (GPLv3) - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the GNU General Public License (GPLv3) - see the [LICENSE](LICENSE) file for details
