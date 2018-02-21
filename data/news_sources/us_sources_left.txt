@@ -1,0 +1,9 @@
+newyorker.com
+slate.com
+nytimes.com
+npr.org
+pbs.org
+huffingtonpost.com
+washingtonpost.com
+buzzfeed.com
+politico.com

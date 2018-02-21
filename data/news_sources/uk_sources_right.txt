@@ -1,0 +1,5 @@
+thetimes.co.uk
+telegraph.co.uk
+thesun.co.uk
+dailymail.co.uk
+express.co.uk
